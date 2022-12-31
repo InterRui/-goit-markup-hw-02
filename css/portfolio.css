@@ -65,6 +65,7 @@ ul {
 .header-nav {
   font-weight: 500;
   font-size: 14px;
+  line-height: 1.14;
 }
 
 .header-nav .head-nav.current {
@@ -83,6 +84,7 @@ ul {
 .header-address .address {
   font-weight: 500;
   font-size: 14px;
+  line-height: 1.14;
 
   color: var(--accent-color);
 }
@@ -116,14 +118,14 @@ ul {
 .filter-examples h2 {
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   color: var(--additional-text-color);
 }
 
 .filter-examples p {
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.87;
   color: var(--accent-color);
 }
 
@@ -137,7 +139,7 @@ ul {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
 
   color: var(--main-white-color);
@@ -152,7 +154,7 @@ ul {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
 
   color: var(--footer-nav-color);
